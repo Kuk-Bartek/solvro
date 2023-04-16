@@ -1,0 +1,155 @@
+[
+    {
+        "id":0,
+        "name": "Schneider Weisse",
+        "foto__url": "foto/PIWO/1.png",
+        "info": "Rozkoszowanie się chwilą w dobrym nastroju: „Meine helle Weisse” - jasne piwo pszeniczne o oryginalnym aromacie Schneider Weisse, treściwe i intensywne. Jego łagodna świeżość ożywia i działa na zmysły. Idealny towarzysz do marzeń w letnie popołudnie - bawarska radość życia!",
+        "origin": "Niemcy",
+        "property": ["Jasne", "Pszeniczne"],
+        "favorite": 0
+    },
+    {
+        "id":1,
+        "name": "Tucher Hefe Weizen",
+        "foto__url": "foto/PIWO/2.png",
+        "info": "Orzeźwiająco owocowy, parzony na drożdżach z naszej własnej czystej hodowli, alkohol usuwany jest dopiero na samym końcu - dla czystej przyjemności z pszenicy. Idealny dla wszystkich, którzy chcą pozostać mobilni.",
+        "origin": "Niemcy",
+        "property": ["Pszeniczne"],
+        "favorite": 0
+    },
+    {
+        "id":2,
+        "name": "Bosteels Tripel Karmeliet",
+        "foto__url": "foto/PIWO/3.png",
+        "info": "Tripel Karmeliet to klasyczny złoty belgijski Tripel o wyraźnym charakterze dzięki zastosowaniu trzech ziaren.",
+        "origin": "Belgia",
+        "property": ["Klasztorne", "Leżakowane"],
+        "favorite": 0
+    },
+    {
+        "id":3,
+        "name": "O'hara 51st State",
+        "foto__url": "foto/PIWO/4.png",
+        "info": "Pełne śmiałych, tropikalnych smaków grejpfruta, marakui, moreli i brzoskwini, to niefiltrowane IPA, inspirowane stylem New England IPA, jest atakiem na zmysły. Starannie dobrana mieszanka chmielowa zapewnia intensywny cytrusowy aromat, dodając jednocześnie dobrze zbalansowanej, ale łagodnej goryczki. Słody są łączone, aby zapewnić gładkie odczucie w ustach.",
+        "origin": "Irlandia",
+        "property": ["IPA"],
+        "favorite": 0
+    },
+    {
+        "id":4,
+        "name": "O'HARA'S IRISH PALE ALE DRY HOPPED",
+        "foto__url": "foto/PIWO/5.png",
+        "info": "Współczesny styl IPA z irlandzkim akcentem. Łącząc równowagę europejskich IPA z hojnym suchym chmielem American Pale Ales (APA), to piwo jest wszystkim, czym IPA powinien być i nie tylko. Zesty i orzeźwiająco gorzki, wykończenie jest długie. Z miedzi stonowanych ciała zwieńczone lekko gazowane głowy, suche hopping przynosi intensywny aromat i trwałe tablicy owoców i nut kwiatowych.",
+        "origin": "Irlandia",
+        "property": ["IPA"],
+        "favorite": 0
+    },
+    {
+        "id":5,
+        "name": "O'HARA'S PREMIUM IRISH CRAFT LAGER",
+        "foto__url": "foto/PIWO/6.png",
+        "info": "Helles to tradycyjny lager, który został ręcznie warzony w O'Hara's dla maksymalnego smaku. O'Hara's Helles, kilkakrotnie pomieszany, aby stworzyć wyjątkową mieszankę tekstur i aromatów, ma wyższą goryczkę niż główne lagery strumieniowe i zapewnia wyjątkowy kęs o czystym, zrównoważonym wykończeniu. Profil chmielu jest dostosowany do pijącego piwa rzemieślniczego, a gorycz jest czysta i intensywna. Korpus słodowy składa hołd tradycyjnym europejskim lagerom, a wyjątkowo długi czas kondycjonowania pozwala na rozwinięcie maksymalnej gamy smaków lagerowych. Połączenie szlachetnego chmielu, specjalistycznych słodów i klasycznego szczepu drożdży lager pozwala estrom i aromatom chmielu idealnie połączyć i zrównoważyć.",
+        "origin": "Irlandia",
+        "property": ["Lager"],
+        "favorite": 0
+    },
+    {
+        "id":6,
+        "name": "SAPPORO BLACK BEER",
+        "foto__url": "foto/PIWO/7.png",
+        "info": "Nasze pierwsze ciemne piwo jest odważne i aromatyczne, a jednocześnie gładkie i chrupiące w klasycznym stylu Sapporo. Sapporo Premium Black jest wykonany z prażonych ciemnych słodów i wyrafinowanej goryczki chmielowej, która jest uzupełniona słodką, okrągłą pełnią i wyraźnymi smakami kawy i czekolady.",
+        "origin": "Japonia",
+        "property": ["Sapporo","Ciemne"],
+        "favorite": 0
+    },
+    {
+        "id":7,
+        "name": "Shepherd Neame Double Stout",
+        "foto__url": "foto/PIWO/8.png",
+        "info": "Shepherd Neame Double Stout to piwo stout. Piwo wytrawne, o smaku kawy, kakao i przypraw. Ciemna barwa i kremowa gładkość.",
+        "origin": "Anglia",
+        "property": ["Ciemne"],
+        "favorite": 0
+    },
+    {
+        "id":8,
+        "name": "SHEPHERD NEAME 1698 KENTISH STRONG ALE",
+        "foto__url": "foto/PIWO/9.png",
+        "info": "Uwarzone, by uczcić 300-lecie ciągłej pracy browaru w Faversham. Jasne, rozgrzewająco mocne Ale, słodkawe i pełne. Owocowe i kwiatowe posmaki z doskonałych gatunków chmielu: Target, Challenger i Goldings. Z lekkim osadem po finalnej fermentacji w butelce.",
+        "origin": "Anglia",
+        "property": ["Ciemne","Mocne"],
+        "favorite": 0
+    },
+    {
+        "id":9,
+        "name": "Brugse Zot Blonde",
+        "foto__url": "foto/PIWO/10.png",
+        "info": "Pyszne piwo o złotym blond, pełne smaku: z bogatym kołnierzem i złożonym charakterem pełnym owocowych i korzennych aromatów. To zrównoważone piwo, które potrafi w zabawny sposób oczarować kubki smakowe wszystkich.",
+        "origin": "Belgia",
+        "property": ["Jasne"],
+        "favorite": 0
+    },
+    {
+        "id":10,
+        "name": "Anchorage Brewing BITTER MONK",
+        "foto__url": "foto/PIWO/11.png",
+        "info": "Podwójne IPA leżakowane w beczkach po Chardonnay z francuskiego dębu w winie Brett. Głęboko w udręczonych aberracjach umysłu mnicha leżała koncepcja Świętego Graala piwa - piwa często wyobrażanego, ale nigdy nie spróbowanego, o które zabiegano, ale nigdy nie osiągnięto. To belgijskie dziedzictwo przejawia się w drożdżowej złożoności, złagodzonej i zaokrąglonej w bednarzu Français i stworzonej, by błyszczeć jak gwiazdy, które po raz pierwszy zobaczył jego odległy poprzednik Dom Pérignon. Takim piwem jest Bitter Monk Belgian Double IPA.",
+        "origin": "USA",
+        "property": ["IPA"],
+        "favorite": 0
+    },
+    {
+        "id":11,
+        "name": "CROOKED STAVE L'BRETT D'BLACKBERRY",
+        "foto__url": "foto/PIWO/12.png",
+        "info": "L'Brett d'Blackberry to Golden Sour Ale dojrzewające w dębowych beczkach z jeżynami.",
+        "origin": "USA",
+        "property": ["IPA","Jasne"],
+        "favorite": 0
+    },
+    {
+        "id":12,
+        "name": "Chimay 150 Trappist Blonde Ale",
+        "foto__url": "foto/PIWO/13.png",
+        "info": "Chimay 150 to mocne, blond piwo, które jest orzeźwiające i owocowe, smaczne i intensywne. Aromaty mięty, bergamotki, limonki i eukaliptusa zabiorą Cię w zaskakującą podróż. Delikatne nuty rozmarynu i goździków doskonale komponują się z subtelnymi nutami kwiatowymi, wzmocnionymi odrobiną orzeźwiającego imbiru. Jego łagodne, zaokrąglone ciało i dymny, pikantny smak są typowe dla piw Chimay i pozostawiają wyrafinowany posmak.",
+        "origin": "Belgia",
+        "property": ["Klasztorne","Jasne"],
+        "favorite": 0
+    },
+    {
+        "id":13,
+        "name": "Lindemans GINGERGUEUZE Lambic Beeraro",
+        "foto__url": "foto/PIWO/14.png",
+        "info": "Lindemans Ginger Gueze to blegijskie piwo spontanicznej fermentacji typu lambic. Pełne nut dzikich, stajennych i kwasowości, połączonych z dużą dozą świeżego imbiru. Oparte na mieszance rocznych, 2 i 3 letnich lambików. Niezwykle ciekawe piwo dla fanów gatunku.",
+        "origin": "Belgia",
+        "property": ["Ciemne"],
+        "favorite": 0
+    },
+    {
+        "id":14,
+        "name": "O'hara White Haze",
+        "foto__url": "foto/PIWO/15.png",
+        "info": "White Haze to owocowy, zamglony IPA, który leje żółto-złoto i jest wybuchowo aromatyczny. Miękkie, gładkie odczucie w ustach następuje po orzeźwiającym aromacie owoców tropikalnych z dodatkiem chmielu Citra, Amarillo i Mosaic.",
+        "origin": "Irlandia",
+        "property": ["Jasne","IPA"],
+        "favorite": 0
+    },
+    {
+        "id":15,
+        "name": "O'Hara's Double",
+        "foto__url": "foto/PIWO/16.png",
+        "info": "Pełny Double I.P.A. to połączenie smaków karmelu i słodu z dobrze wyważoną i wyraźną goryczką. Lekkie nagazowanie pozwala na prześwitywanie pełnego smaku tego Podwójnego IPA. Przy 7,5% abv, wysoka zawartość alkoholu jest zrównoważona karmelową słodyczą i pełnym charakterem słodu.",
+        "origin": "Irlandia",
+        "property": ["Jasne","IPA"],
+        "favorite": 0
+    },
+    {
+        "id":16,
+        "name": "O'Hara's Irish Red",
+        "foto__url": "foto/PIWO/17.png",
+        "info": "Ten czerwony wyróżnia się w tej kategorii stylu piwa. Ciało słodowe jest równie imponujące jak koźlak, aczkolwiek w wyjątkowo irlandzki sposób. Dzięki niewiarygodnie gładkiej słodowości uzupełnionej karmelowymi tonami i doskonale zbalansowanej goryczce, ta Irish Red jest znacznie bardziej złożona niż jej mainstreamowi rywale.",
+        "origin": "Irlandia",
+        "property": ["Ciemne"],
+        "favorite": 0
+    }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+        <title>Świat Piwa</title>
+        <link rel="stylesheet" href="css/main.css">
+        <script src="https://kit.fontawesome.com/e89684f974.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="css/product.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body onload="logJSONData(1)">
+    <input type="checkbox" id="check">
+    <label for="check">
+    <i class="fas fa-bars" id="bntm"></i>
+    <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+      <header>Menu</header>
+      <ul>
+        <li><a href="info.html">Krótka Historia Piwa</a></li>
+        <li><a href="product.html">Poznawaj Nowe Smaki</a></li>
+        <li><a href="about.html">O mnie</a></li>
+      </ul>
+    </div>
+    <section>
+      <article>
+        <header>
+          <h1>Poznawaj nowe smaki</h1>
+          <button id="serch" onclick="showSerch()">Szukaj</button>
+          <div id="serchBox">
+            <button id="closeSerch" onclick="closeSerch()"><i class="fa-solid fa-xmark fa-2xl" style="color: #ffffff;"></i></button>
+            <input id="searchInput" type="text" placeholder="Szukaj..." onload="serch()">
+            <script src="serch.js"></script>
+          </div>
+        </header>
+        <main>
+            <div id="slider-container">
+              <div id="slider">
+                
+              </div>
+            </div>
+            <script src="main.js"></script>
+        </main>
+      </article>
+    </section>
+  </body>
+</html>
